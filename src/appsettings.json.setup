@@ -1,0 +1,7 @@
+﻿{
+  "VisionServiceEndpoint": "### Azure AI Vision ###",
+  "VisionServiceKey": "### Azure AI Vision ###",
+  "OpenAiApiKey": "### OpenApi ###",
+  "SpeechKey": "### Azure Cognitive Services Speech ###",
+  "SpeechRegion": "australiaeast"
+}
