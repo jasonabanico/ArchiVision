@@ -35,36 +35,46 @@ namespace ArchiVision.Services
 
         public async Task GenerateRephrasedCaptionsAsync(ArchiveImage image)
         {
-            var message = $"rephrase this message 10 times, separate into lines. no bullets or numbers. '{image.Caption}'";
+            var message = $"generate csv of 10 rephrases in double quotes: '{image.Caption}'";
             var response = await ChatAsync(message);
             var rephrasedCaptions = response.Split('\n');
-            image.RephrasedCaptions = rephrasedCaptions.ToList();
+            foreach (var rephrasedCaption in rephrasedCaptions)
+            {
+                if (rephrasedCaption.Contains('"'))
+                {
+                    var snippets = rephrasedCaption.Split(",");
+                    foreach (var snippet in snippets)
+                        image.RephrasedCaptions.Add(snippet.Replace("\"", ""));
+                }
+            }
         }
 
         public async Task GenerateTagSynonymsAsync(ArchiveImage image)
         {
             var tags = string.Join(", ", image.Tags);
-            var message = $"generate synonyms of these tags: {tags}, and output comma delimited list enclosed in []";
+            var message = $"{tags}: Generate 10 synonyms for each tag in CSV in double quotes";
             var response = await ChatAsync(message);
-            var pattern = @"\[(.*?)\]";
-            var match = Regex.Match(response, pattern);
-            var group = match.Groups[0];
-            var capture = group.Captures[0];
-            var synonymTags = capture.Value.Split(',');
-            image.TagSynonyms = synonymTags.ToList();
+            var responseLines = response.Split('\n');
+            foreach (var responseLine in responseLines)
+            {
+                if (responseLine.Contains('"'))
+                {
+                    var snippets = responseLine.Split(",");
+                    foreach (var snippet in snippets)
+                    {
+                        var tagSynonym = snippet.Replace("\"", "");
+                        if (!image.TagSynonyms.Contains(tagSynonym))
+                            image.TagSynonyms.Add(tagSynonym.Trim());
+                    }
+                }
+            }
         }
 
         public async Task GenerateDescriptionAsync(ArchiveImage image)
         {
             var tags = string.Empty;
-            var message = $"turn these into a simple 2 to 3 sentences to describe an image: '{image.Title}', '{image.Caption}', ";
-            foreach (var tag in image.Tags)
-            {
-                // NOTE: Can add tag.Confidence filter here to only use tags with confidence above a certain level
-                if (!string.IsNullOrEmpty(tags))
-                    tags += ", ";
-                tags += tag.Name.Trim();
-            }
+            var message = $"turn these into a simple 2 to 3 sentences to describe an image: '{image.Title}', '{image.Caption}',";
+            message += string.Join(",", image.Tags);
             image.Description = await ChatAsync(message + tags);
         }
     }

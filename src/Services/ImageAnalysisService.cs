@@ -70,7 +70,12 @@ namespace ArchiVision.Services
                 Console.WriteLine($"   Error message: {errorDetails.Message}");
             }
 
-            image.Tags = result.Tags;
+            image.ContentTags = result.Tags;
+            foreach (var contentTag in  image.ContentTags)
+            {
+                // can add filtering here based on confidence
+                image.Tags.Add(contentTag.Name);
+            }
         }
     }
 }

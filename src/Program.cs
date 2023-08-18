@@ -22,6 +22,7 @@ namespace ArchiVision
                 .AddSingleton<IImageAnalysisService, ImageAnalysisService>()
                 .AddSingleton<IChatService, ChatService>()
                 .AddSingleton<ISpeechService, SpeechService>()
+                .AddSingleton<IArchiveFileService, ArchiveFileService>()
                 .AddSingleton<IImageProcessor, ImageProcessor>()
                 .BuildServiceProvider();
 
