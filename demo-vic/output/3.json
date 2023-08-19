@@ -1,0 +1,114 @@
+{
+  "Id": "3",
+  "Title": "Barbara McAulay reverse dive - running; Springboard; Diving; Day 10",
+  "Url": "https://raw.githubusercontent.com/jasonabanico/ArchiVision/main/demo-vic/source-images/3.jpg",
+  "Caption": "a person jumping in the air",
+  "RephrasedCaptions": [
+    "a person leaping in the air",
+    "a person soaring in the air",
+    "a person bouncing in the air",
+    "a person springing in the air",
+    "a person vaulting in the air",
+    "a person propelling in the air",
+    "a person launching in the air",
+    "a person ascending in the air",
+    "a person elevating in the air",
+    "a person skyrocketing in the air"
+  ],
+  "Description": "Barbara McAulay performs a reverse dive with perfect form while running on a springboard during day 10 of a diving competition. The image captures her dynamic movement and skill in mid-air. In another image, a person is seen jumping in the air against the backdrop of an outdoor stadium. The black and white photo adds a timeless quality to the shot, and an airplane can be spotted flying overhead, making it a unique and energetic capture.",
+  "ContentTags": [
+    {
+      "Confidence": 0.9314582943916321
+    },
+    {
+      "Confidence": 0.8793193101882935
+    },
+    {
+      "Confidence": 0.8409693241119385
+    },
+    {
+      "Confidence": 0.7928121089935303
+    },
+    {
+      "Confidence": 0.7905622124671936
+    },
+    {
+      "Confidence": 0.7849841713905334
+    }
+  ],
+  "Tags": [
+    "airplane",
+    "outdoor",
+    "stadium",
+    "black and white",
+    "person",
+    "plane"
+  ],
+  "TagSynonyms": [
+    "airplane: jet",
+    "aeroplane",
+    "plane",
+    "aircraft",
+    "aviation",
+    "flight",
+    "airliner",
+    "bird",
+    "flying machine",
+    "winged vehicle",
+    "outdoor: open-air",
+    "outside",
+    "external",
+    "outdoor space",
+    "alfresco",
+    "external environment",
+    "exterior",
+    "nature",
+    "outdoorsy",
+    "wilderness",
+    "stadium: arena",
+    "sports arena",
+    "coliseum",
+    "field",
+    "sports ground",
+    "sports venue",
+    "gymnasium",
+    "dome",
+    "amphitheater",
+    "ballpark",
+    "black and white: monochrome",
+    "grayscale",
+    "b\u0026w",
+    "noir",
+    "two-tone",
+    "achromatic",
+    "colourless",
+    "dichromatic",
+    "shades of gray",
+    "monotone",
+    "person: individual",
+    "human",
+    "somebody",
+    "someone",
+    "character",
+    "human being",
+    "individuality",
+    "soul",
+    "personage",
+    "mortal",
+    "plane: flat",
+    "surface",
+    "level",
+    "sheet",
+    "slab",
+    "plank",
+    "board",
+    "panel",
+    "plane figure",
+    "smooth surface"
+  ],
+  "RawOutput": {
+    "rephrased-captions": "\u0022a person leaping in the air\u0022,\n\u0022a person soaring in the air\u0022,\n\u0022a person bouncing in the air\u0022,\n\u0022a person springing in the air\u0022,\n\u0022a person vaulting in the air\u0022,\n\u0022a person propelling in the air\u0022,\n\u0022a person launching in the air\u0022,\n\u0022a person ascending in the air\u0022,\n\u0022a person elevating in the air\u0022,\n\u0022a person skyrocketing in the air\u0022",
+    "tag-synonyms": "\u0022airplane\u0022: \u0022jet\u0022, \u0022aeroplane\u0022, \u0022plane\u0022, \u0022aircraft\u0022, \u0022aviation\u0022, \u0022flight\u0022, \u0022airliner\u0022, \u0022bird\u0022, \u0022flying machine\u0022, \u0022winged vehicle\u0022\n\n\u0022outdoor\u0022: \u0022open-air\u0022, \u0022outside\u0022, \u0022external\u0022, \u0022outdoor space\u0022, \u0022alfresco\u0022, \u0022external environment\u0022, \u0022exterior\u0022, \u0022nature\u0022, \u0022outdoorsy\u0022, \u0022wilderness\u0022\n\n\u0022stadium\u0022: \u0022arena\u0022, \u0022sports arena\u0022, \u0022coliseum\u0022, \u0022field\u0022, \u0022sports ground\u0022, \u0022sports venue\u0022, \u0022gymnasium\u0022, \u0022dome\u0022, \u0022amphitheater\u0022, \u0022ballpark\u0022\n\n\u0022black and white\u0022: \u0022monochrome\u0022, \u0022grayscale\u0022, \u0022b\u0026w\u0022, \u0022noir\u0022, \u0022two-tone\u0022, \u0022achromatic\u0022, \u0022colourless\u0022, \u0022dichromatic\u0022, \u0022shades of gray\u0022, \u0022monotone\u0022\n\n\u0022person\u0022: \u0022individual\u0022, \u0022human\u0022, \u0022somebody\u0022, \u0022someone\u0022, \u0022character\u0022, \u0022human being\u0022, \u0022individuality\u0022, \u0022soul\u0022, \u0022personage\u0022, \u0022mortal\u0022\n\n\u0022plane\u0022: \u0022flat\u0022, \u0022surface\u0022, \u0022level\u0022, \u0022sheet\u0022, \u0022slab\u0022, \u0022plank\u0022, \u0022board\u0022, \u0022panel\u0022, \u0022plane figure\u0022, \u0022smooth surface\u0022",
+    "description": "Barbara McAulay performs a reverse dive with perfect form while running on a springboard during day 10 of a diving competition. The image captures her dynamic movement and skill in mid-air. In another image, a person is seen jumping in the air against the backdrop of an outdoor stadium. The black and white photo adds a timeless quality to the shot, and an airplane can be spotted flying overhead, making it a unique and energetic capture."
+  }
+}

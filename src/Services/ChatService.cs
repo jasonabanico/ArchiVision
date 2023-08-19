@@ -80,7 +80,7 @@ namespace ArchiVision.Services
         public async Task GenerateDescriptionAsync(ArchiveImage image)
         {
             var tags = string.Empty;
-            var message = $"turn these into a simple 2 to 3 sentences to describe an image: '{image.Title}', '{image.Caption}',";
+            var message = $"turn these into a simple 2 to 3 sentences to describe a single image: '{image.Title}', '{image.Caption}',";
             message += string.Join(",", image.Tags);
             var response = await ChatAsync(message + tags);
             image.RawOutput.Add("description", response);
