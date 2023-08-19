@@ -1,5 +1,6 @@
 ﻿using ArchiVision.Models;
 using ArchiVision.Services.Interfaces;
+using Azure;
 using Azure.AI.OpenAI;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.FileSystemGlobbing.Internal;
@@ -37,6 +38,7 @@ namespace ArchiVision.Services
         {
             var message = $"generate csv of 10 rephrases in double quotes: '{image.Caption}'";
             var response = await ChatAsync(message);
+            image.RawOutput.Add("rephrased-captions", response);
             var rephrasedCaptions = response.Split('\n');
             foreach (var rephrasedCaption in rephrasedCaptions)
             {
@@ -54,6 +56,7 @@ namespace ArchiVision.Services
             var tags = string.Join(", ", image.Tags);
             var message = $"{tags}: Generate 10 synonyms for each tag in CSV in double quotes";
             var response = await ChatAsync(message);
+            image.RawOutput.Add("tag-synonyms", response);
             var responseLines = response.Split('\n');
             foreach (var responseLine in responseLines)
             {
@@ -75,7 +78,10 @@ namespace ArchiVision.Services
             var tags = string.Empty;
             var message = $"turn these into a simple 2 to 3 sentences to describe an image: '{image.Title}', '{image.Caption}',";
             message += string.Join(",", image.Tags);
-            image.Description = await ChatAsync(message + tags);
+            var response = await ChatAsync(message + tags);
+            image.RawOutput.Add("description", response);
+            // add processing here
+            image.Description = response;
         }
     }
 }

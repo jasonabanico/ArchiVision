@@ -1,7 +1,7 @@
 ﻿{
-  "VisionServiceEndpoint": "### Azure AI Vision ###",
-  "VisionServiceKey": "### Azure AI Vision ###",
-  "OpenAiApiKey": "### OpenApi ###",
-  "SpeechKey": "### Azure Cognitive Services Speech ###",
+  "VisionServiceEndpoint": "AZURE_AI_SERVICES_VISION_ENDPOINT",
+  "VisionServiceKey": "AZURE_AI_SERVICES_VISION_KEY",
+  "OpenAiApiKey": "OPENAI_API_KEY",
+  "SpeechKey": "AZURE_AI_SERVICES_SPEECH_KEY",
   "SpeechRegion": "australiaeast"
 }

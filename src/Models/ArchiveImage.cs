@@ -13,5 +13,6 @@ namespace ArchiVision.Models
         public ContentTags ContentTags { get; set; }
         public List<string> Tags { get; set; } = new List<string>();
         public List<string> TagSynonyms { get; set; } = new List<string>();
+        public Dictionary<string, string> RawOutput { get; set; } = new Dictionary<string, string>();
     }
 }
