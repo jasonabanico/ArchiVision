@@ -4,6 +4,8 @@ ArchiVision is an AI Extended Metadata and AI Assistive Technology system that h
 
 It is powered by the precision of Azure AI's Computer Vision, the expressiveness of Open AI's Large Language Models, and the articulation of Azure AI's Speech Services.
 
+GovHack Hackerspace: https://hackerspace.govhack.org/projects/archivision
+
 ## Demo
 https://bit.ly/archivision
 
