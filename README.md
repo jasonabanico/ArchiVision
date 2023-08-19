@@ -1,5 +1,8 @@
 # ArchiVision
 
+## Demo
+- ACT: https://bit.ly/archivision-act
+
 ## Setup
 In src folder, copy appsettings.json.setup to appsettings.json, and update the following keys using instruction in the links:
 - AZURE_AI_SERVICES_VISION_ENDPOINT: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40
