@@ -1,4 +1,4 @@
-# ArchiVision
+# ArchiVision - AI Extended Metadata + AI Assistive Technology for Archive Images
 
 ## Demo
 https://bit.ly/archivision
