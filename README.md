@@ -1,8 +1,7 @@
 # ArchiVision
 
 ## Demo
-- ACT: https://bit.ly/archivision-act
-- VIC: https://bit.ly/archivision-vic
+https://bit.ly/archivision
 
 ## Setup
 In src folder, copy appsettings.json.setup to appsettings.json, and update the following keys using instruction in the links:
