@@ -1,5 +1,9 @@
 # ArchiVision - AI Extended Metadata + AI Assistive Technology for Archive Images
 
+ArchiVision is an AI Extended Metadata and AI Assistive Technology system that harnesses a variety of AI technologies to generate extended metadata and assistive descriptions from the image itself.
+
+It is powered by the precision of Azure AI's Computer Vision, the expressiveness of Open AI's Large Language Models, and the articulation of Azure AI's Speech Services.
+
 ## Demo
 https://bit.ly/archivision
 
