@@ -36,7 +36,7 @@ namespace ArchiVision
             var imageProcessor = serviceProvider.GetService<IImageProcessor>();
 
             var archiveFileService = new ArchiveFileService();
-            archiveFileService.Load("archive-act.csv");
+            archiveFileService.Load("archive.csv");
             foreach (var archiveImage in archiveFileService.Images)
             {
                 await imageProcessor.ProcessImageAsync(archiveImage);
