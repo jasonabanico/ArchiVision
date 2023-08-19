@@ -1,0 +1,142 @@
+{
+  "Id": "1",
+  "Title": "Item LF-524 - Canberra Fire Brigade - 1924 Hotchkiss fire engine with Canberra Fire Brigade",
+  "Url": "https://act.accesstomemory.org/uploads/r/null/8/8/d/88d2340c8007d86da6026067defbc35bd3dc98a3a11a3da0ba3aa02efe84f627/Canberra_Fire_Brigade_1924_Hotchkiss_141.jpg",
+  "Caption": "a group of men in uniform on a car",
+  "RephrasedCaptions": [
+    "a car carrying a group of men in uniform",
+    "a group of uniformed men riding in a car",
+    "several men in uniform travelling in a car",
+    "a car filled with men in uniform",
+    "a group of men in uniform driving a car",
+    "men in uniform riding in a car",
+    "a car with a group of men in uniform",
+    "uniformed men on a car",
+    "a car transporting a group of men in uniform",
+    "several men in uniform on a car"
+  ],
+  "Description": "The image showcases a 1924 Hotchkiss fire engine, marked as LF-524, belonging to the Canberra Fire Brigade. The vintage vehicle, operated by a group of uniformed men, highlights Canberra\u0027s firefighting history. The car\u0027s wheels, tires, and other auto parts are visible, representing an impressive piece of military-grade equipment.",
+  "ContentTags": [
+    {
+      "Confidence": 0.9897291660308838
+    },
+    {
+      "Confidence": 0.9763243794441223
+    },
+    {
+      "Confidence": 0.9725872278213501
+    },
+    {
+      "Confidence": 0.9571719169616699
+    },
+    {
+      "Confidence": 0.9519884586334229
+    },
+    {
+      "Confidence": 0.9060723185539246
+    },
+    {
+      "Confidence": 0.8842179179191589
+    },
+    {
+      "Confidence": 0.5633713603019714
+    }
+  ],
+  "Tags": [
+    "wheel",
+    "vehicle",
+    "outdoor",
+    "land vehicle",
+    "tire",
+    "auto part",
+    "weapon",
+    "military"
+  ],
+  "TagSynonyms": [
+    "wheel: rim",
+    "tire",
+    "hubcap",
+    "spoke",
+    "rim",
+    "tyre",
+    "steering wheel",
+    "cog",
+    "disc",
+    "pulley",
+    "vehicle: car",
+    "automobile",
+    "motorcycle",
+    "truck",
+    "bus",
+    "van",
+    "scooter",
+    "bike",
+    "boat",
+    "plane",
+    "outdoor: open-air",
+    "outside",
+    "exterior",
+    "external",
+    "alfresco",
+    "al fresco",
+    "out-of-doors",
+    "natural",
+    "uncovered",
+    "extern",
+    "land vehicle: ground vehicle",
+    "road vehicle",
+    "wheeled vehicle",
+    "motor vehicle",
+    "automobile",
+    "car",
+    "bus",
+    "truck",
+    "van",
+    "suv",
+    "tire: tyre",
+    "rubber",
+    "inner tube",
+    "flat tire",
+    "pneumatic",
+    "tubeless",
+    "traction",
+    "spare tire",
+    "wheel",
+    "rim",
+    "auto part: car part",
+    "vehicle component",
+    "automobile accessory",
+    "spare part",
+    "engine component",
+    "automotive part",
+    "motor part",
+    "car element",
+    "particulate",
+    "accessory",
+    "weapon: armament",
+    "firearm",
+    "gun",
+    "blade",
+    "sword",
+    "ammunition",
+    "rifle",
+    "pistol",
+    "cannon",
+    "projectile",
+    "military: armed forces",
+    "army",
+    "navy",
+    "air force",
+    "defense",
+    "soldier",
+    "war",
+    "combat",
+    "battalion",
+    "forces"
+  ],
+  "RawOutput": {
+    "rephrased-captions": "\u0022a car carrying a group of men in uniform\u0022\n\u0022a group of uniformed men riding in a car\u0022\n\u0022several men in uniform travelling in a car\u0022\n\u0022a car filled with men in uniform\u0022\n\u0022a group of men in uniform driving a car\u0022\n\u0022men in uniform riding in a car\u0022\n\u0022a car with a group of men in uniform\u0022\n\u0022uniformed men on a car\u0022\n\u0022a car transporting a group of men in uniform\u0022\n\u0022several men in uniform on a car\u0022",
+    "tag-synonyms": "\u0022wheel\u0022: \u0022rim\u0022, \u0022tire\u0022, \u0022hubcap\u0022, \u0022spoke\u0022, \u0022rim\u0022, \u0022tyre\u0022, \u0022steering wheel\u0022, \u0022cog\u0022, \u0022disc\u0022, \u0022pulley\u0022\n\n\u0022vehicle\u0022: \u0022car\u0022, \u0022automobile\u0022, \u0022motorcycle\u0022, \u0022truck\u0022, \u0022bus\u0022, \u0022van\u0022, \u0022scooter\u0022, \u0022bike\u0022, \u0022boat\u0022, \u0022plane\u0022\n\n\u0022outdoor\u0022: \u0022open-air\u0022, \u0022outside\u0022, \u0022exterior\u0022, \u0022external\u0022, \u0022alfresco\u0022, \u0022al fresco\u0022, \u0022out-of-doors\u0022, \u0022natural\u0022, \u0022uncovered\u0022, \u0022extern\u0022\n\n\u0022land vehicle\u0022: \u0022ground vehicle\u0022, \u0022road vehicle\u0022, \u0022wheeled vehicle\u0022, \u0022motor vehicle\u0022, \u0022automobile\u0022, \u0022car\u0022, \u0022bus\u0022, \u0022truck\u0022, \u0022van\u0022, \u0022suv\u0022\n\n\u0022tire\u0022: \u0022tyre\u0022, \u0022rubber\u0022, \u0022inner tube\u0022, \u0022flat tire\u0022, \u0022pneumatic\u0022, \u0022tubeless\u0022, \u0022traction\u0022, \u0022spare tire\u0022, \u0022wheel\u0022, \u0022rim\u0022\n\n\u0022auto part\u0022: \u0022car part\u0022, \u0022vehicle component\u0022, \u0022automobile accessory\u0022, \u0022spare part\u0022, \u0022engine component\u0022, \u0022automotive part\u0022, \u0022motor part\u0022, \u0022car element\u0022, \u0022particulate\u0022, \u0022accessory\u0022\n\n\u0022weapon\u0022: \u0022armament\u0022, \u0022firearm\u0022, \u0022gun\u0022, \u0022blade\u0022, \u0022sword\u0022, \u0022ammunition\u0022, \u0022rifle\u0022, \u0022pistol\u0022, \u0022cannon\u0022, \u0022projectile\u0022\n\n\u0022military\u0022: \u0022armed forces\u0022, \u0022army\u0022, \u0022navy\u0022, \u0022air force\u0022, \u0022defense\u0022, \u0022soldier\u0022, \u0022war\u0022, \u0022combat\u0022, \u0022battalion\u0022, \u0022forces\u0022",
+    "description": "The image showcases a 1924 Hotchkiss fire engine, marked as LF-524, belonging to the Canberra Fire Brigade. The vintage vehicle, operated by a group of uniformed men, highlights Canberra\u0027s firefighting history. The car\u0027s wheels, tires, and other auto parts are visible, representing an impressive piece of military-grade equipment."
+  }
+}

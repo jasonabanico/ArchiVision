@@ -1,0 +1,100 @@
+{
+  "Id": "5",
+  "Title": "Item 3161 - Garema Place - Father and Son (Bronze figures in fountain with marble and tile basin) by John Dowie",
+  "Url": "https://act.accesstomemory.org/uploads/r/archivesact/8/b/d/8bdee1e0252979340de728a68ee9f04b78c33fd9afff8489f2ca7ac22d9e20cc/ACT3-3161_141.jpg",
+  "Caption": "a group of people sitting on benches in a park",
+  "RephrasedCaptions": [
+    "a group of individuals sitting on benches in a park",
+    "a collection of people seated on benches in a park",
+    "a gathering of individuals lounging on benches in a park",
+    "a cluster of people resting on benches in a park",
+    "a multitude of individuals perched on benches in a park",
+    "a crowd of people occupying benches in a park",
+    "several individuals sitting on benches in a park",
+    "a team of people reclining on benches in a park",
+    "a bunch of individuals settled on benches in a park",
+    "multiple people sitting on benches in a park"
+  ],
+  "Description": "The image depicts a magnificent fountain situated in Garema Place, featuring a captivating sculpture titled \u0022Father and Son\u0022 by John Dowie. The bronze figures gracefully emerge from the center, surrounded by a marble and tile basin, creating a harmonious blend of art and nature. In the background, a serene park reveals a group of people leisurely seated on benches, enjoying the peaceful ambiance amidst the presence of towering trees.",
+  "ContentTags": [
+    {
+      "Confidence": 0.9574137330055237
+    },
+    {
+      "Confidence": 0.9475809335708618
+    },
+    {
+      "Confidence": 0.8864709138870239
+    },
+    {
+      "Confidence": 0.8622960448265076
+    },
+    {
+      "Confidence": 0.6693911552429199
+    }
+  ],
+  "Tags": [
+    "outdoor",
+    "art",
+    "tree",
+    "fountain",
+    "statue"
+  ],
+  "TagSynonyms": [
+    "outdoor: exterior",
+    "open-air",
+    "outside",
+    "alfresco",
+    "outdoorsy",
+    "fresh-air",
+    "natural",
+    "environmental",
+    "outlandish",
+    "wild",
+    "art: artwork",
+    "creative",
+    "fine art",
+    "craftsmanship",
+    "painting",
+    "sculpture",
+    "masterpiece",
+    "creation",
+    "aesthetic",
+    "expression",
+    "tree: woodland",
+    "forest",
+    "flora",
+    "timber",
+    "shrubbery",
+    "orchard",
+    "arboreal",
+    "thicket",
+    "grove",
+    "vegetation",
+    "fountain: water feature",
+    "spray",
+    "jet",
+    "waterworks",
+    "gusher",
+    "cascade",
+    "spout",
+    "well",
+    "font",
+    "spring",
+    "statue: sculpture",
+    "figure",
+    "statuary",
+    "carving",
+    "bust",
+    "monument",
+    "effigy",
+    "idol",
+    "image",
+    "representation"
+  ],
+  "RawOutput": {
+    "rephrased-captions": "\u0022a group of individuals sitting on benches in a park\u0022,\n\u0022a collection of people seated on benches in a park\u0022,\n\u0022a gathering of individuals lounging on benches in a park\u0022,\n\u0022a cluster of people resting on benches in a park\u0022,\n\u0022a multitude of individuals perched on benches in a park\u0022,\n\u0022a crowd of people occupying benches in a park\u0022,\n\u0022several individuals sitting on benches in a park\u0022,\n\u0022a team of people reclining on benches in a park\u0022,\n\u0022a bunch of individuals settled on benches in a park\u0022,\n\u0022multiple people sitting on benches in a park\u0022",
+    "tag-synonyms": "\u0022outdoor\u0022: \u0022exterior\u0022, \u0022open-air\u0022, \u0022outside\u0022, \u0022alfresco\u0022, \u0022outdoorsy\u0022, \u0022fresh-air\u0022, \u0022natural\u0022, \u0022environmental\u0022, \u0022outlandish\u0022, \u0022wild\u0022\n\n\u0022art\u0022: \u0022artwork\u0022, \u0022creative\u0022, \u0022fine art\u0022, \u0022craftsmanship\u0022, \u0022painting\u0022, \u0022sculpture\u0022, \u0022masterpiece\u0022, \u0022creation\u0022, \u0022aesthetic\u0022, \u0022expression\u0022\n\n\u0022tree\u0022: \u0022woodland\u0022, \u0022forest\u0022, \u0022flora\u0022, \u0022timber\u0022, \u0022shrubbery\u0022, \u0022orchard\u0022, \u0022arboreal\u0022, \u0022thicket\u0022, \u0022grove\u0022, \u0022vegetation\u0022\n\n\u0022fountain\u0022: \u0022water feature\u0022, \u0022spray\u0022, \u0022jet\u0022, \u0022waterworks\u0022, \u0022gusher\u0022, \u0022cascade\u0022, \u0022spout\u0022, \u0022well\u0022, \u0022font\u0022, \u0022spring\u0022\n\n\u0022statue\u0022: \u0022sculpture\u0022, \u0022figure\u0022, \u0022statuary\u0022, \u0022carving\u0022, \u0022bust\u0022, \u0022monument\u0022, \u0022effigy\u0022, \u0022idol\u0022, \u0022image\u0022, \u0022representation\u0022",
+    "description": "The image depicts a magnificent fountain situated in Garema Place, featuring a captivating sculpture titled \u0022Father and Son\u0022 by John Dowie. The bronze figures gracefully emerge from the center, surrounded by a marble and tile basin, creating a harmonious blend of art and nature. In the background, a serene park reveals a group of people leisurely seated on benches, enjoying the peaceful ambiance amidst the presence of towering trees."
+  }
+}

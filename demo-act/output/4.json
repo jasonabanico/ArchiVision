@@ -1,0 +1,145 @@
+{
+  "Id": "4",
+  "Title": "Item 3150 - City Building Construction",
+  "Url": "https://act.accesstomemory.org/uploads/r/archivesact/5/f/2/5f2360cf8fabb813d7682b60fee596d2904885bca231bfc03a5cc233f5ef438f/ACT3-3150_141.jpg",
+  "Caption": "a large building with cranes in the background",
+  "RephrasedCaptions": [
+    "a building of significant size with cranes visible in the backdrop",
+    "a massive structure featuring cranes in the distance",
+    "an expansive edifice with cranes present in the rear",
+    "a sizeable construction outfitted with cranes in the scenery",
+    "a substantial building showcasing cranes in the surrounding area",
+    "a spacious construction site with cranes visible in the background",
+    "a grand building accompanied by cranes in the backdrop",
+    "a monumental structure featuring cranes in the distance",
+    "a sizable edifice with cranes present in the scenery",
+    "a massive building that includes cranes in the background"
+  ],
+  "Description": "The image showcases a city building under construction, surrounded by a serene outdoor setting. With a clear blue sky, lush green grass, and a solitary tree nearby, the building is being erected with the help of cranes against this natural backdrop.",
+  "ContentTags": [
+    {
+      "Confidence": 0.9982626438140869
+    },
+    {
+      "Confidence": 0.9937447309494019
+    },
+    {
+      "Confidence": 0.9903035163879395
+    },
+    {
+      "Confidence": 0.9556984901428223
+    },
+    {
+      "Confidence": 0.9450579881668091
+    },
+    {
+      "Confidence": 0.8301728963851929
+    },
+    {
+      "Confidence": 0.6566066741943359
+    },
+    {
+      "Confidence": 0.5422502756118774
+    }
+  ],
+  "Tags": [
+    "outdoor",
+    "sky",
+    "grass",
+    "building",
+    "tree",
+    "field",
+    "crane",
+    "construction"
+  ],
+  "TagSynonyms": [
+    "outdoor",
+    "open-air",
+    "outside",
+    "exterior",
+    "alfresco",
+    "outward",
+    "outdoorsy",
+    "wild",
+    "yard",
+    "al fresco",
+    "sky",
+    "heavens",
+    "firmament",
+    "atmosphere",
+    "celestial dome",
+    "blue yonder",
+    "vault of heaven",
+    "air",
+    "ethereal realm",
+    "azur",
+    "grass",
+    "lawn",
+    "turf",
+    "sod",
+    "greenery",
+    "vegetation",
+    "meadow",
+    "weeds",
+    "herbage",
+    "pasture",
+    "building",
+    "structure",
+    "edifice",
+    "construction",
+    "erection",
+    "dwelling",
+    "house",
+    "architecture",
+    "establishment",
+    "property",
+    "tree",
+    "sapling",
+    "plant",
+    "shrub",
+    "bush",
+    "timber",
+    "wood",
+    "grove",
+    "forest",
+    "foliage",
+    "field",
+    "plain",
+    "prairie",
+    "grassland",
+    "open country",
+    "green",
+    "farmland",
+    "acreage",
+    "crane",
+    "hoist",
+    "lift",
+    "elevate",
+    "suspend",
+    "derrick",
+    "jib",
+    "mechanical arm",
+    "lifting device",
+    "creation",
+    "assembly",
+    "raising",
+    "fabrication",
+    "formation",
+    "development",
+    "synonym_tag",
+    "related_word",
+    "alternative_term",
+    "equivalent_expression",
+    "corresponding_descriptor",
+    "analogous_designation",
+    "parallel_phrase",
+    "comparable_verbiage",
+    "parallel_terminology",
+    "similar_title"
+  ],
+  "RawOutput": {
+    "rephrased-captions": "\u0022a building of significant size with cranes visible in the backdrop\u0022\n\u0022a massive structure featuring cranes in the distance\u0022\n\u0022an expansive edifice with cranes present in the rear\u0022\n\u0022a sizeable construction outfitted with cranes in the scenery\u0022\n\u0022a substantial building showcasing cranes in the surrounding area\u0022\n\u0022a spacious construction site with cranes visible in the background\u0022\n\u0022a grand building accompanied by cranes in the backdrop\u0022\n\u0022a monumental structure featuring cranes in the distance\u0022\n\u0022a sizable edifice with cranes present in the scenery\u0022\n\u0022a massive building that includes cranes in the background\u0022",
+    "tag-synonyms": "\u0022outdoor\u0022,\u0022open-air\u0022,\u0022outside\u0022,\u0022exterior\u0022,\u0022alfresco\u0022,\u0022outward\u0022,\u0022outdoorsy\u0022,\u0022wild\u0022,\u0022yard\u0022,\u0022al fresco\u0022\n\u0022sky\u0022,\u0022heavens\u0022,\u0022firmament\u0022,\u0022atmosphere\u0022,\u0022celestial dome\u0022,\u0022blue yonder\u0022,\u0022vault of heaven\u0022,\u0022air\u0022,\u0022ethereal realm\u0022,\u0022azur\u0022\n\u0022grass\u0022,\u0022lawn\u0022,\u0022turf\u0022,\u0022sod\u0022,\u0022greenery\u0022,\u0022vegetation\u0022,\u0022meadow\u0022,\u0022weeds\u0022,\u0022herbage\u0022,\u0022pasture\u0022\n\u0022building\u0022,\u0022structure\u0022,\u0022edifice\u0022,\u0022construction\u0022,\u0022erection\u0022,\u0022dwelling\u0022,\u0022house\u0022,\u0022architecture\u0022,\u0022establishment\u0022,\u0022property\u0022\n\u0022tree\u0022,\u0022sapling\u0022,\u0022plant\u0022,\u0022shrub\u0022,\u0022bush\u0022,\u0022timber\u0022,\u0022wood\u0022,\u0022grove\u0022,\u0022forest\u0022,\u0022foliage\u0022\n\u0022field\u0022,\u0022plain\u0022,\u0022meadow\u0022,\u0022pasture\u0022,\u0022prairie\u0022,\u0022grassland\u0022,\u0022open country\u0022,\u0022green\u0022,\u0022farmland\u0022,\u0022acreage\u0022\n\u0022crane\u0022,\u0022hoist\u0022,\u0022lift\u0022,\u0022elevate\u0022,\u0022suspend\u0022,\u0022hoist\u0022,\u0022derrick\u0022,\u0022jib\u0022,\u0022mechanical arm\u0022,\u0022lifting device\u0022\n\u0022construction\u0022,\u0022building\u0022,\u0022erection\u0022,\u0022creation\u0022,\u0022assembly\u0022,\u0022raising\u0022,\u0022fabrication\u0022,\u0022formation\u0022,\u0022development\u0022,\u0022establishment\u0022\n\u0022synonym_tag\u0022,\u0022related_word\u0022,\u0022alternative_term\u0022,\u0022equivalent_expression\u0022,\u0022corresponding_descriptor\u0022,\u0022analogous_designation\u0022,\u0022parallel_phrase\u0022,\u0022comparable_verbiage\u0022,\u0022parallel_terminology\u0022,\u0022similar_title\u0022",
+    "description": "The image showcases a city building under construction, surrounded by a serene outdoor setting. With a clear blue sky, lush green grass, and a solitary tree nearby, the building is being erected with the help of cranes against this natural backdrop."
+  }
+}

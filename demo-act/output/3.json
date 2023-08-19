@@ -1,0 +1,170 @@
+{
+  "Id": "3",
+  "Title": "Item 1513 - Recreation Expo - Artist demonstration - Peter Schlumpp",
+  "Url": "https://act.accesstomemory.org/uploads/r/archivesact/7/1/7/717628a4462a2fe712cacaf1557c1396d1b175a69cfb75f5e45d5b03214c3c4a/ACT3-1513_141.jpg",
+  "Caption": "a person painting on an easel",
+  "RephrasedCaptions": [
+    "a painter working on an easel",
+    "a individual using an easel to paint",
+    "someone engaging in painting on an easel",
+    "an artist utilizing an easel for painting",
+    "a person engaged in the act of painting on an easel",
+    "an individual using an easel for artistic purposes",
+    "a painter creating art on an easel",
+    "someone utilizing an easel to paint a picture",
+    "an artist working on a canvas attached to an easel",
+    "a person using an easel to express their creativity through painting"
+  ],
+  "Description": "The image shows Peter Schlumpp giving an artist demonstration at the Recreation Expo. He is depicted outdoors, surrounded by lush green grass and a tall tree, with his painting easel secured on a tripod. His clothing suggests he is a male artist, and there is also a ladder nearby, possibly indicating that he is working on a larger artwork.",
+  "ContentTags": [
+    {
+      "Confidence": 0.9881250858306885
+    },
+    {
+      "Confidence": 0.9863306879997253
+    },
+    {
+      "Confidence": 0.9762178659439087
+    },
+    {
+      "Confidence": 0.9663825035095215
+    },
+    {
+      "Confidence": 0.9339797496795654
+    },
+    {
+      "Confidence": 0.9320002794265747
+    },
+    {
+      "Confidence": 0.885190486907959
+    },
+    {
+      "Confidence": 0.878469705581665
+    },
+    {
+      "Confidence": 0.8403064012527466
+    },
+    {
+      "Confidence": 0.4262382686138153
+    }
+  ],
+  "Tags": [
+    "tripod",
+    "clothing",
+    "outdoor",
+    "person",
+    "man",
+    "grass",
+    "easel",
+    "tree",
+    "ladder",
+    "art"
+  ],
+  "TagSynonyms": [
+    "tripod : stand",
+    "support",
+    "base",
+    "frame",
+    "mount",
+    "bracket",
+    "holder",
+    "rest",
+    "prop",
+    "device",
+    "clothing : apparel",
+    "garments",
+    "attire",
+    "fashion",
+    "wardrobe",
+    "outfit",
+    "costume",
+    "dress",
+    "ensemble",
+    "threads",
+    "outdoor : outside",
+    "open-air",
+    "exterior",
+    "nature",
+    "alfresco",
+    "outward",
+    "field",
+    "fresh-air",
+    "yard",
+    "garden",
+    "person : individual",
+    "human",
+    "being",
+    "somebody",
+    "character",
+    "soul",
+    "creature",
+    "entity",
+    "figure",
+    "mortal",
+    "man : male",
+    "guy",
+    "gentleman",
+    "fellow",
+    "dude",
+    "bloke",
+    "chap",
+    "person",
+    "male person",
+    "manhood",
+    "grass : lawn",
+    "herb",
+    "turf",
+    "meadow",
+    "vegetation",
+    "greenery",
+    "sod",
+    "foilage",
+    "verdure",
+    "lawn grass",
+    "easel : stand",
+    "support",
+    "frame",
+    "rack",
+    "stand-up",
+    "display",
+    "platform",
+    "prop",
+    "rest",
+    "tripod",
+    "tree : plant",
+    "wood",
+    "flora",
+    "timber",
+    "shrubs",
+    "foliage",
+    "sapling",
+    "bush",
+    "vegetation",
+    "forestry",
+    "ladder : staircase",
+    "steps",
+    "escalator",
+    "climbing frame",
+    "stairway",
+    "rung",
+    "platform",
+    "stair",
+    "stairs",
+    "stepladder",
+    "art : creativity",
+    "craft",
+    "expression",
+    "creation",
+    "fine art",
+    "painting",
+    "sculpture",
+    "image",
+    "work of art",
+    "masterpiece"
+  ],
+  "RawOutput": {
+    "rephrased-captions": "\u0022a painter working on an easel\u0022\n\u0022a individual using an easel to paint\u0022\n\u0022someone engaging in painting on an easel\u0022\n\u0022an artist utilizing an easel for painting\u0022\n\u0022a person engaged in the act of painting on an easel\u0022\n\u0022an individual using an easel for artistic purposes\u0022\n\u0022a painter creating art on an easel\u0022\n\u0022someone utilizing an easel to paint a picture\u0022\n\u0022an artist working on a canvas attached to an easel\u0022\n\u0022a person using an easel to express their creativity through painting\u0022",
+    "tag-synonyms": "\u0022tripod\u0022 : \u0022stand\u0022, \u0022support\u0022, \u0022base\u0022, \u0022frame\u0022, \u0022mount\u0022, \u0022bracket\u0022, \u0022holder\u0022, \u0022rest\u0022, \u0022prop\u0022, \u0022device\u0022\n\u0022clothing\u0022 : \u0022apparel\u0022, \u0022garments\u0022, \u0022attire\u0022, \u0022fashion\u0022, \u0022wardrobe\u0022, \u0022outfit\u0022, \u0022costume\u0022, \u0022dress\u0022, \u0022ensemble\u0022, \u0022threads\u0022\n\u0022outdoor\u0022 : \u0022outside\u0022, \u0022open-air\u0022, \u0022exterior\u0022, \u0022nature\u0022, \u0022alfresco\u0022, \u0022outward\u0022, \u0022field\u0022, \u0022fresh-air\u0022, \u0022yard\u0022, \u0022garden\u0022\n\u0022person\u0022 : \u0022individual\u0022, \u0022human\u0022, \u0022being\u0022, \u0022somebody\u0022, \u0022character\u0022, \u0022soul\u0022, \u0022creature\u0022, \u0022entity\u0022, \u0022figure\u0022, \u0022mortal\u0022\n\u0022man\u0022 : \u0022male\u0022, \u0022guy\u0022, \u0022gentleman\u0022, \u0022fellow\u0022, \u0022dude\u0022, \u0022bloke\u0022, \u0022chap\u0022, \u0022person\u0022, \u0022male person\u0022, \u0022manhood\u0022\n\u0022grass\u0022 : \u0022lawn\u0022, \u0022herb\u0022, \u0022turf\u0022, \u0022meadow\u0022, \u0022vegetation\u0022, \u0022greenery\u0022, \u0022sod\u0022, \u0022foilage\u0022, \u0022verdure\u0022, \u0022lawn grass\u0022\n\u0022easel\u0022 : \u0022stand\u0022, \u0022support\u0022, \u0022frame\u0022, \u0022rack\u0022, \u0022stand-up\u0022, \u0022display\u0022, \u0022platform\u0022, \u0022prop\u0022, \u0022rest\u0022, \u0022tripod\u0022\n\u0022tree\u0022 : \u0022plant\u0022, \u0022wood\u0022, \u0022flora\u0022, \u0022timber\u0022, \u0022shrubs\u0022, \u0022foliage\u0022, \u0022sapling\u0022, \u0022bush\u0022, \u0022vegetation\u0022, \u0022forestry\u0022\n\u0022ladder\u0022 : \u0022staircase\u0022, \u0022steps\u0022, \u0022escalator\u0022, \u0022climbing frame\u0022, \u0022stairway\u0022, \u0022rung\u0022, \u0022platform\u0022, \u0022stair\u0022, \u0022stairs\u0022, \u0022stepladder\u0022\n\u0022art\u0022 : \u0022creativity\u0022, \u0022craft\u0022, \u0022expression\u0022, \u0022creation\u0022, \u0022fine art\u0022, \u0022painting\u0022, \u0022sculpture\u0022, \u0022image\u0022, \u0022work of art\u0022, \u0022masterpiece\u0022",
+    "description": "The image shows Peter Schlumpp giving an artist demonstration at the Recreation Expo. He is depicted outdoors, surrounded by lush green grass and a tall tree, with his painting easel secured on a tripod. His clothing suggests he is a male artist, and there is also a ladder nearby, possibly indicating that he is working on a larger artwork."
+  }
+}
