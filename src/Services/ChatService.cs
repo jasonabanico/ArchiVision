@@ -46,7 +46,11 @@ namespace ArchiVision.Services
                 {
                     var snippets = rephrasedCaption.Split(",");
                     foreach (var snippet in snippets)
-                        image.RephrasedCaptions.Add(snippet.Replace("\"", ""));
+                    {
+                        var trimmedSnippet = snippet.Replace("\"", "").Trim();
+                        if (!string.IsNullOrEmpty(trimmedSnippet))
+                            image.RephrasedCaptions.Add(trimmedSnippet);
+                    }
                 }
             }
         }
