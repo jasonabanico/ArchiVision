@@ -14,7 +14,7 @@ In src folder, copy appsettings.json.setup to appsettings.json, and update the f
 - AZURE_AI_SERVICES_VISION_ENDPOINT: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40
 - AZURE_AI_SERVICES_VISION_KEY: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40
 - OPENAI_API_KEY: https://www.guidingtech.com/how-to-generate-openai-api-key/
-- AZURE_AI_SERVICES_SPEECH_KEY: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech
+- AZURE_AI_SERVICES_SPEECH_KEY: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text
 
 ## Run
 - Using command or terminal, go to src folder.
