@@ -13,7 +13,7 @@ https://bit.ly/archivision
 In src folder, copy appsettings.json.setup to appsettings.json, and update the following keys using instruction in the links:
 - AZURE_AI_SERVICES_VISION_ENDPOINT: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40
 - AZURE_AI_SERVICES_VISION_KEY: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40
-- OPENAI_API_KEY: [https://platform.openai.com/](https://www.guidingtech.com/how-to-generate-openai-api-key/)
+- OPENAI_API_KEY: (https://www.guidingtech.com/how-to-generate-openai-api-key/)[https://www.guidingtech.com/how-to-generate-openai-api-key/]
 - AZURE_AI_SERVICES_SPEECH_KEY: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech
 
 ## Run
